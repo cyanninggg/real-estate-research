@@ -1,0 +1,2576 @@
+[
+  {
+    "building": "Maxwell",
+    "plan": "S2",
+    "type": "Studio",
+    "unit": "327",
+    "rent": 2350,
+    "sf": 462,
+    "available": "Nov 7"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S6.3",
+    "type": "Studio",
+    "unit": "378",
+    "rent": 2390,
+    "sf": 579,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S6.3",
+    "type": "Studio",
+    "unit": "632",
+    "rent": 2860,
+    "sf": 579,
+    "available": "Oct 21"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S6.3",
+    "type": "Studio",
+    "unit": "562",
+    "rent": 2760,
+    "sf": 579,
+    "available": "Nov 14"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S6.3",
+    "type": "Studio",
+    "unit": "332",
+    "rent": 2710,
+    "sf": 579,
+    "available": "Jan 14"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S2.2",
+    "type": "Studio",
+    "unit": "429",
+    "rent": 2400,
+    "sf": 464,
+    "available": "Sep 9"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S3",
+    "type": "Studio",
+    "unit": "415",
+    "rent": 2500,
+    "sf": 549,
+    "available": "Nov 7"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S6.1",
+    "type": "Studio",
+    "unit": "377",
+    "rent": 2545,
+    "sf": 569,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S6.1",
+    "type": "Studio",
+    "unit": "347",
+    "rent": 2545,
+    "sf": 569,
+    "available": "Oct 9"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S6.1",
+    "type": "Studio",
+    "unit": "360",
+    "rent": 2645,
+    "sf": 569,
+    "available": "Oct 10"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S1.1",
+    "type": "Studio",
+    "unit": "130",
+    "rent": 2550,
+    "sf": 465,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S1.1",
+    "type": "Studio",
+    "unit": "169",
+    "rent": 2550,
+    "sf": 465,
+    "available": "Nov 12"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "S8",
+    "type": "Studio",
+    "unit": "517",
+    "rent": 2775,
+    "sf": 673,
+    "available": "Oct 10"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A1.1U",
+    "type": "1 Bedroom",
+    "unit": "144",
+    "rent": 2375,
+    "sf": 572,
+    "available": "Apr 11"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A2.2U",
+    "type": "1 Bedroom",
+    "unit": "350",
+    "rent": 2710,
+    "sf": 577,
+    "available": "Oct 1"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A2.2U",
+    "type": "1 Bedroom",
+    "unit": "472",
+    "rent": 2635,
+    "sf": 577,
+    "available": "Jan 9"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "301",
+    "rent": 2825,
+    "sf": 686,
+    "available": "Nov 7"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "645",
+    "rent": 2975,
+    "sf": 686,
+    "available": "Nov 12"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A7.2",
+    "type": "1 Bedroom",
+    "unit": "175",
+    "rent": 2875,
+    "sf": 694,
+    "available": "Oct 31"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A6.2",
+    "type": "1 Bedroom",
+    "unit": "651",
+    "rent": 3055,
+    "sf": 689,
+    "available": "Oct 6"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A6.2",
+    "type": "1 Bedroom",
+    "unit": "351",
+    "rent": 2905,
+    "sf": 689,
+    "available": "Oct 15"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A6.2",
+    "type": "1 Bedroom",
+    "unit": "236",
+    "rent": 2980,
+    "sf": 689,
+    "available": "Oct 24"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A6.H",
+    "type": "1 Bedroom",
+    "unit": "656",
+    "rent": 3075,
+    "sf": 688,
+    "available": "Nov 30"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "A17",
+    "type": "1 Bedroom",
+    "unit": "539",
+    "rent": 3100,
+    "sf": 769,
+    "available": "Dec 23"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B7",
+    "type": "2 Bedrooms",
+    "unit": "143",
+    "rent": 3299,
+    "sf": 993,
+    "available": "Aug 11"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B7",
+    "type": "2 Bedrooms",
+    "unit": "135",
+    "rent": 3560,
+    "sf": 993,
+    "available": "Dec 18"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B4.2",
+    "type": "2 Bedrooms",
+    "unit": "665",
+    "rent": 3785,
+    "sf": 993,
+    "available": "Sep 5"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B4.2",
+    "type": "2 Bedrooms",
+    "unit": "465",
+    "rent": 3660,
+    "sf": 993,
+    "available": "Sep 12"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B4.2",
+    "type": "2 Bedrooms",
+    "unit": "541",
+    "rent": 3435,
+    "sf": 993,
+    "available": "Sep 16"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B4.2",
+    "type": "2 Bedrooms",
+    "unit": "528",
+    "rent": 3385,
+    "sf": 993,
+    "available": "Sep 30"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B4.2",
+    "type": "2 Bedrooms",
+    "unit": "335",
+    "rent": 3585,
+    "sf": 993,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B9.Den",
+    "type": "2 Bedrooms",
+    "unit": "168",
+    "rent": 3780,
+    "sf": 1058,
+    "available": "Oct 8"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B16",
+    "type": "2 Bedrooms",
+    "unit": "319",
+    "rent": 3915,
+    "sf": 1167,
+    "available": "Oct 20"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B18.Den.H",
+    "type": "2 Bedrooms",
+    "unit": "426",
+    "rent": 4000,
+    "sf": 1181,
+    "available": "Oct 21"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B12",
+    "type": "2 Bedrooms",
+    "unit": "680",
+    "rent": 4085,
+    "sf": 1063,
+    "available": "Dec 5"
+  },
+  {
+    "building": "Maxwell",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "649",
+    "rent": 4095,
+    "sf": 1086,
+    "available": "Jan 14"
+  },
+  {
+    "building": "Jade",
+    "plan": "S1",
+    "type": "Studio",
+    "unit": "523",
+    "rent": 2375,
+    "sf": 456,
+    "available": "Jan 8"
+  },
+  {
+    "building": "Jade",
+    "plan": "S9",
+    "type": "Studio",
+    "unit": "345",
+    "rent": 2450,
+    "sf": 579,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Jade",
+    "plan": "S9",
+    "type": "Studio",
+    "unit": "645",
+    "rent": 2600,
+    "sf": 579,
+    "available": "Oct 23"
+  },
+  {
+    "building": "Jade",
+    "plan": "S9",
+    "type": "Studio",
+    "unit": "545",
+    "rent": 2575,
+    "sf": 579,
+    "available": "Nov 6"
+  },
+  {
+    "building": "Jade",
+    "plan": "S7",
+    "type": "Studio",
+    "unit": "325",
+    "rent": 2510,
+    "sf": 557,
+    "available": "Sep 16"
+  },
+  {
+    "building": "Jade",
+    "plan": "S6",
+    "type": "Studio",
+    "unit": "713",
+    "rent": 2600,
+    "sf": 547,
+    "available": "Oct 16"
+  },
+  {
+    "building": "Jade",
+    "plan": "A2",
+    "type": "1 Bedroom",
+    "unit": "618",
+    "rent": 2650,
+    "sf": 676,
+    "available": "Dec 5"
+  },
+  {
+    "building": "Jade",
+    "plan": "A1",
+    "type": "1 Bedroom",
+    "unit": "564",
+    "rent": 2690,
+    "sf": 569,
+    "available": "Oct 10"
+  },
+  {
+    "building": "Jade",
+    "plan": "A4.Den",
+    "type": "1 Bedroom",
+    "unit": "638",
+    "rent": 3075,
+    "sf": 741,
+    "available": "Jan 10"
+  },
+  {
+    "building": "Jade",
+    "plan": "A9.Den",
+    "type": "1 Bedroom",
+    "unit": "311",
+    "rent": 3400,
+    "sf": 837,
+    "available": "Nov 12"
+  },
+  {
+    "building": "Jade",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "750",
+    "rent": 3600,
+    "sf": 994,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Jade",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "353",
+    "rent": 3700,
+    "sf": 994,
+    "available": "Jan 5"
+  },
+  {
+    "building": "Jade",
+    "plan": "B11",
+    "type": "2 Bedrooms",
+    "unit": "340",
+    "rent": 3740,
+    "sf": 1105,
+    "available": "Oct 10"
+  },
+  {
+    "building": "Jade",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "460",
+    "rent": 3810,
+    "sf": 1091,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Jade",
+    "plan": "B12.Den",
+    "type": "2 Bedrooms",
+    "unit": "322",
+    "rent": 3810,
+    "sf": 1120,
+    "available": "Nov 4"
+  },
+  {
+    "building": "Jade",
+    "plan": "B7",
+    "type": "2 Bedrooms",
+    "unit": "757",
+    "rent": 4025,
+    "sf": 1087,
+    "available": "Sep 19"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "6061",
+    "rent": 2600,
+    "sf": 566,
+    "available": "Jul 17"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "6088",
+    "rent": 2700,
+    "sf": 566,
+    "available": "Aug 10"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "5063",
+    "rent": 2550,
+    "sf": 566,
+    "available": "Sep 10"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "4033",
+    "rent": 2525,
+    "sf": 566,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "5033",
+    "rent": 2550,
+    "sf": 566,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "5061",
+    "rent": 2550,
+    "sf": 566,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "4108",
+    "rent": 2625,
+    "sf": 566,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "6025",
+    "rent": 2600,
+    "sf": 566,
+    "available": "Oct 8"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "4027",
+    "rent": 2525,
+    "sf": 566,
+    "available": "Oct 12"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "6112",
+    "rent": 2399,
+    "sf": 566,
+    "available": "Oct 18"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "5016",
+    "rent": 2650,
+    "sf": 566,
+    "available": "Oct 25"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "6043",
+    "rent": 2600,
+    "sf": 566,
+    "available": "Nov 11"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "4016",
+    "rent": 2625,
+    "sf": 566,
+    "available": "Nov 17"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "4063",
+    "rent": 2525,
+    "sf": 566,
+    "available": "Nov 27"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "3025",
+    "rent": 2475,
+    "sf": 566,
+    "available": "Dec 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "5028",
+    "rent": 2650,
+    "sf": 566,
+    "available": "Dec 9"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S1",
+    "type": "Studio",
+    "unit": "5036",
+    "rent": 2525,
+    "sf": 464,
+    "available": "Aug 21"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S1",
+    "type": "Studio",
+    "unit": "6098",
+    "rent": 2575,
+    "sf": 464,
+    "available": "Sep 8"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S1",
+    "type": "Studio",
+    "unit": "4082",
+    "rent": 2500,
+    "sf": 464,
+    "available": "Sep 11"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S1",
+    "type": "Studio",
+    "unit": "6097",
+    "rent": 2475,
+    "sf": 464,
+    "available": "Sep 22"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "S1",
+    "type": "Studio",
+    "unit": "4036",
+    "rent": 2500,
+    "sf": 464,
+    "available": "Oct 26"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A1.U",
+    "type": "1 Bedroom",
+    "unit": "3054",
+    "rent": 2575,
+    "sf": 570,
+    "available": "Sep 11"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A1.U",
+    "type": "1 Bedroom",
+    "unit": "4058",
+    "rent": 2625,
+    "sf": 570,
+    "available": "Oct 2"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A1.U",
+    "type": "1 Bedroom",
+    "unit": "4009",
+    "rent": 2525,
+    "sf": 570,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A1.U",
+    "type": "1 Bedroom",
+    "unit": "4013",
+    "rent": 2525,
+    "sf": 570,
+    "available": "Oct 27"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A1.U",
+    "type": "1 Bedroom",
+    "unit": "5093",
+    "rent": 2550,
+    "sf": 570,
+    "available": "Nov 27"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A1.U",
+    "type": "1 Bedroom",
+    "unit": "6072",
+    "rent": 2700,
+    "sf": 570,
+    "available": "Dec 2"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A1.U",
+    "type": "1 Bedroom",
+    "unit": "4087",
+    "rent": 2525,
+    "sf": 570,
+    "available": "Dec 9"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "6096",
+    "rent": 3050,
+    "sf": 641,
+    "available": "Oct 8"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "3088",
+    "rent": 2699,
+    "sf": 641,
+    "available": "Nov 4"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "5062",
+    "rent": 2825,
+    "sf": 660,
+    "available": "Nov 9"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A3.U",
+    "type": "1 Bedroom",
+    "unit": "6094",
+    "rent": 2975,
+    "sf": 596,
+    "available": "Oct 25"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A7",
+    "type": "1 Bedroom",
+    "unit": "4052",
+    "rent": 2975,
+    "sf": 641,
+    "available": "Nov 6"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A4",
+    "type": "1 Bedroom",
+    "unit": "6030",
+    "rent": 2975,
+    "sf": 596,
+    "available": "Dec 12"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A11.Den",
+    "type": "1 Bedroom",
+    "unit": "3044",
+    "rent": 2999,
+    "sf": 729,
+    "available": "Jun 15"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A9",
+    "type": "1 Bedroom",
+    "unit": "6070",
+    "rent": 3100,
+    "sf": 667,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A10.Den",
+    "type": "1 Bedroom",
+    "unit": "4100",
+    "rent": 3275,
+    "sf": 689,
+    "available": "Sep 17"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A10.Den",
+    "type": "1 Bedroom",
+    "unit": "6102",
+    "rent": 3350,
+    "sf": 689,
+    "available": "Sep 21"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A15.Den",
+    "type": "1 Bedroom",
+    "unit": "4107",
+    "rent": 3425,
+    "sf": 817,
+    "available": "May 1"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A15.Den",
+    "type": "1 Bedroom",
+    "unit": "6107",
+    "rent": 3575,
+    "sf": 817,
+    "available": "Jun 15"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A15.Den",
+    "type": "1 Bedroom",
+    "unit": "3107",
+    "rent": 3350,
+    "sf": 817,
+    "available": "Jul 8"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A15.Den",
+    "type": "1 Bedroom",
+    "unit": "4105",
+    "rent": 3425,
+    "sf": 817,
+    "available": "Aug 4"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A13.Den",
+    "type": "1 Bedroom",
+    "unit": "5038",
+    "rent": 3400,
+    "sf": 782,
+    "available": "Jun 15"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A14.Den",
+    "type": "1 Bedroom",
+    "unit": "4023",
+    "rent": 3400,
+    "sf": 799,
+    "available": "Aug 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A12.Den",
+    "type": "1 Bedroom",
+    "unit": "3022",
+    "rent": 3490,
+    "sf": 737,
+    "available": "Jun 15"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A12.Den",
+    "type": "1 Bedroom",
+    "unit": "6024",
+    "rent": 3465,
+    "sf": 737,
+    "available": "Jun 24"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A16.Den",
+    "type": "1 Bedroom",
+    "unit": "4049",
+    "rent": 3475,
+    "sf": 844,
+    "available": "May 3"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "A16.Den",
+    "type": "1 Bedroom",
+    "unit": "6049",
+    "rent": 3550,
+    "sf": 844,
+    "available": "Aug 25"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "3030",
+    "rent": 3299,
+    "sf": 1001,
+    "available": "Jun 15"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "3041",
+    "rent": 3199,
+    "sf": 1001,
+    "available": "Aug 31"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "4032",
+    "rent": 3650,
+    "sf": 1001,
+    "available": "Sep 11"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "5006",
+    "rent": 3675,
+    "sf": 1001,
+    "available": "Sep 22"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "6078",
+    "rent": 3725,
+    "sf": 1001,
+    "available": "Oct 6"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "6055",
+    "rent": 3650,
+    "sf": 1005,
+    "available": "Jul 7"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "3091",
+    "rent": 3199,
+    "sf": 1005,
+    "available": "Aug 31"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "4056",
+    "rent": 3675,
+    "sf": 1005,
+    "available": "Sep 11"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "4057",
+    "rent": 3575,
+    "sf": 1005,
+    "available": "Sep 14"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "4091",
+    "rent": 3575,
+    "sf": 1005,
+    "available": "Sep 15"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "6057",
+    "rent": 3650,
+    "sf": 1005,
+    "available": "Sep 21"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "5050",
+    "rent": 3700,
+    "sf": 1005,
+    "available": "Sep 24"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "6032",
+    "rent": 3750,
+    "sf": 1005,
+    "available": "Nov 2"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B1.U",
+    "type": "2 Bedrooms",
+    "unit": "5081",
+    "rent": 3250,
+    "sf": 910,
+    "available": "Sep 12"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B10.U",
+    "type": "2 Bedrooms",
+    "unit": "3079",
+    "rent": 3375,
+    "sf": 1033,
+    "available": "Oct 8"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "4103",
+    "rent": 3475,
+    "sf": 1057,
+    "available": "May 22"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "6051",
+    "rent": 3550,
+    "sf": 1057,
+    "available": "Jun 1"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "3075",
+    "rent": 3425,
+    "sf": 1057,
+    "available": "Jun 15"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "4067",
+    "rent": 3875,
+    "sf": 1057,
+    "available": "Jul 11"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "4075",
+    "rent": 3875,
+    "sf": 1057,
+    "available": "Jul 20"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "6075",
+    "rent": 3950,
+    "sf": 1057,
+    "available": "Aug 2"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "5103",
+    "rent": 3900,
+    "sf": 1057,
+    "available": "Aug 10"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "4001",
+    "rent": 3875,
+    "sf": 1057,
+    "available": "Nov 8"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B14",
+    "type": "2 Bedrooms",
+    "unit": "6067",
+    "rent": 3950,
+    "sf": 1057,
+    "available": "Nov 28"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B9",
+    "type": "2 Bedrooms",
+    "unit": "4060",
+    "rent": 3675,
+    "sf": 1006,
+    "available": "Aug 8"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B9",
+    "type": "2 Bedrooms",
+    "unit": "6101",
+    "rent": 3650,
+    "sf": 1006,
+    "available": "Sep 8"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B9",
+    "type": "2 Bedrooms",
+    "unit": "3101",
+    "rent": 3500,
+    "sf": 1006,
+    "available": "Sep 10"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B6",
+    "type": "2 Bedrooms",
+    "unit": "5069",
+    "rent": 3575,
+    "sf": 1001,
+    "available": "Jul 20"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B6",
+    "type": "2 Bedrooms",
+    "unit": "4069",
+    "rent": 3550,
+    "sf": 1001,
+    "available": "Oct 14"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B16",
+    "type": "2 Bedrooms",
+    "unit": "3019",
+    "rent": 3574,
+    "sf": 1143,
+    "available": "Jun 29"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B4",
+    "type": "2 Bedrooms",
+    "unit": "3050",
+    "rent": 3625,
+    "sf": 983,
+    "available": "Sep 20"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B4",
+    "type": "2 Bedrooms",
+    "unit": "5054",
+    "rent": 3700,
+    "sf": 983,
+    "available": "Oct 26"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B7.H",
+    "type": "2 Bedrooms",
+    "unit": "5004",
+    "rent": 3675,
+    "sf": 1001,
+    "available": "Oct 9"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B12",
+    "type": "2 Bedrooms",
+    "unit": "4008",
+    "rent": 3725,
+    "sf": 1033,
+    "available": "Sep 21"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B11",
+    "type": "2 Bedrooms",
+    "unit": "4078",
+    "rent": 3725,
+    "sf": 1033,
+    "available": "Nov 4"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B15",
+    "type": "2 Bedrooms",
+    "unit": "6089",
+    "rent": 3900,
+    "sf": 1140,
+    "available": "Sep 12"
+  },
+  {
+    "building": "Anthem Everett",
+    "plan": "B15",
+    "type": "2 Bedrooms",
+    "unit": "3089",
+    "rent": 3775,
+    "sf": 1140,
+    "available": "Sep 18"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "656",
+    "rent": 2520,
+    "sf": 517,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "756",
+    "rent": 2595,
+    "sf": 517,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S7",
+    "type": "Studio",
+    "unit": "406",
+    "rent": 2620,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S7",
+    "type": "Studio",
+    "unit": "450",
+    "rent": 2620,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S7",
+    "type": "Studio",
+    "unit": "606",
+    "rent": 2670,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S7",
+    "type": "Studio",
+    "unit": "650",
+    "rent": 2670,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S7",
+    "type": "Studio",
+    "unit": "706",
+    "rent": 2745,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S7",
+    "type": "Studio",
+    "unit": "751",
+    "rent": 2745,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S7H",
+    "type": "Studio",
+    "unit": "651",
+    "rent": 2620,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S8",
+    "type": "Studio",
+    "unit": "426",
+    "rent": 2629,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S8",
+    "type": "Studio",
+    "unit": "526",
+    "rent": 2654,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S8",
+    "type": "Studio",
+    "unit": "528",
+    "rent": 2654,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S8",
+    "type": "Studio",
+    "unit": "628",
+    "rent": 2679,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S8",
+    "type": "Studio",
+    "unit": "418",
+    "rent": 2739,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S8",
+    "type": "Studio",
+    "unit": "726",
+    "rent": 2754,
+    "sf": 567,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S5",
+    "type": "Studio",
+    "unit": "328",
+    "rent": 2670,
+    "sf": 524,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S5",
+    "type": "Studio",
+    "unit": "306",
+    "rent": 2720,
+    "sf": 524,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S9",
+    "type": "Studio",
+    "unit": "562",
+    "rent": 2755,
+    "sf": 589,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S9",
+    "type": "Studio",
+    "unit": "362",
+    "rent": 2795,
+    "sf": 589,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "S9",
+    "type": "Studio",
+    "unit": "762",
+    "rent": 2745,
+    "sf": 589,
+    "available": "Aug 5"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A1",
+    "type": "1 Bedroom",
+    "unit": "430",
+    "rent": 2780,
+    "sf": 592,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A1",
+    "type": "1 Bedroom",
+    "unit": "464",
+    "rent": 2830,
+    "sf": 592,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A1",
+    "type": "1 Bedroom",
+    "unit": "664",
+    "rent": 2830,
+    "sf": 592,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A1",
+    "type": "1 Bedroom",
+    "unit": "330",
+    "rent": 2955,
+    "sf": 592,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A1",
+    "type": "1 Bedroom",
+    "unit": "364",
+    "rent": 2955,
+    "sf": 592,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A1",
+    "type": "1 Bedroom",
+    "unit": "564",
+    "rent": 2855,
+    "sf": 592,
+    "available": "Aug 5"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A1",
+    "type": "1 Bedroom",
+    "unit": "764",
+    "rent": 2955,
+    "sf": 592,
+    "available": "Aug 5"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A5",
+    "type": "1 Bedroom",
+    "unit": "404",
+    "rent": 2870,
+    "sf": 659,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A5",
+    "type": "1 Bedroom",
+    "unit": "504",
+    "rent": 2895,
+    "sf": 659,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A5",
+    "type": "1 Bedroom",
+    "unit": "604",
+    "rent": 2920,
+    "sf": 659,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A5",
+    "type": "1 Bedroom",
+    "unit": "704",
+    "rent": 2995,
+    "sf": 659,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A4",
+    "type": "1 Bedroom",
+    "unit": "433",
+    "rent": 2895,
+    "sf": 615,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "309",
+    "rent": 2895,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "313",
+    "rent": 2895,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "327",
+    "rent": 2895,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "407",
+    "rent": 2920,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "409",
+    "rent": 2920,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "411",
+    "rent": 2920,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "427",
+    "rent": 2920,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "507",
+    "rent": 2945,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "509",
+    "rent": 2945,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "511",
+    "rent": 2945,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "513",
+    "rent": 2945,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "527",
+    "rent": 2945,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "607",
+    "rent": 2970,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "609",
+    "rent": 2970,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "611",
+    "rent": 2970,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "613",
+    "rent": 2970,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "408",
+    "rent": 3005,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "453",
+    "rent": 3005,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "455",
+    "rent": 3005,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "508",
+    "rent": 3030,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "522",
+    "rent": 3030,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "553",
+    "rent": 3030,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "707",
+    "rent": 3045,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "709",
+    "rent": 3045,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "711",
+    "rent": 3045,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "713",
+    "rent": 3045,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "727",
+    "rent": 3045,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "653",
+    "rent": 3055,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "708",
+    "rent": 3130,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "753",
+    "rent": 3130,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6",
+    "type": "1 Bedroom",
+    "unit": "655",
+    "rent": 3205,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "412",
+    "rent": 2915,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "414",
+    "rent": 2915,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "457",
+    "rent": 2915,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "512",
+    "rent": 2940,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "557",
+    "rent": 2940,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "612",
+    "rent": 2965,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "620",
+    "rent": 2965,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "657",
+    "rent": 2965,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "720",
+    "rent": 3040,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "757",
+    "rent": 3040,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "514",
+    "rent": 3090,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "520",
+    "rent": 3090,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "614",
+    "rent": 3115,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "312",
+    "rent": 3140,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A3",
+    "type": "1 Bedroom",
+    "unit": "314",
+    "rent": 3140,
+    "sf": 603,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "321",
+    "rent": 2930,
+    "sf": 728,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "403",
+    "rent": 2955,
+    "sf": 728,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "503",
+    "rent": 2980,
+    "sf": 728,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "621",
+    "rent": 3005,
+    "sf": 728,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "452",
+    "rent": 3040,
+    "sf": 728,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "554",
+    "rent": 3065,
+    "sf": 728,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "652",
+    "rent": 3090,
+    "sf": 728,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A8",
+    "type": "1 Bedroom",
+    "unit": "654",
+    "rent": 3090,
+    "sf": 728,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "A6H",
+    "type": "1 Bedroom",
+    "unit": "722",
+    "rent": 3195,
+    "sf": 690,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "315",
+    "rent": 3660,
+    "sf": 1006,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B6H",
+    "type": "2 Bedrooms",
+    "unit": "615",
+    "rent": 3700,
+    "sf": 1010,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B6H",
+    "type": "2 Bedrooms",
+    "unit": "729",
+    "rent": 3775,
+    "sf": 1010,
+    "available": "Aug 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "523",
+    "rent": 3760,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "531",
+    "rent": 3760,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "623",
+    "rent": 3785,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "323",
+    "rent": 3820,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "410",
+    "rent": 3820,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "459",
+    "rent": 3820,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "423",
+    "rent": 3835,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "723",
+    "rent": 3860,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "731",
+    "rent": 3860,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "624",
+    "rent": 3870,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "659",
+    "rent": 3870,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "631",
+    "rent": 3885,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "359",
+    "rent": 4045,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B3",
+    "type": "2 Bedrooms",
+    "unit": "759",
+    "rent": 4095,
+    "sf": 959,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B7",
+    "type": "2 Bedrooms",
+    "unit": "402",
+    "rent": 3800,
+    "sf": 1011,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B7",
+    "type": "2 Bedrooms",
+    "unit": "502",
+    "rent": 3825,
+    "sf": 1011,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B7",
+    "type": "2 Bedrooms",
+    "unit": "702",
+    "rent": 3925,
+    "sf": 1011,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B4",
+    "type": "2 Bedrooms",
+    "unit": "661",
+    "rent": 4175,
+    "sf": 981,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "B4",
+    "type": "2 Bedrooms",
+    "unit": "761",
+    "rent": 4200,
+    "sf": 981,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C1",
+    "type": "3 Bedrooms",
+    "unit": "301",
+    "rent": 5380,
+    "sf": 1186,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C1",
+    "type": "3 Bedrooms",
+    "unit": "501",
+    "rent": 5430,
+    "sf": 1186,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C1",
+    "type": "3 Bedrooms",
+    "unit": "601",
+    "rent": 5455,
+    "sf": 1186,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C1",
+    "type": "3 Bedrooms",
+    "unit": "701",
+    "rent": 5530,
+    "sf": 1186,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C2",
+    "type": "3 Bedrooms",
+    "unit": "317",
+    "rent": 5615,
+    "sf": 1198,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C2",
+    "type": "3 Bedrooms",
+    "unit": "417",
+    "rent": 5640,
+    "sf": 1198,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C2",
+    "type": "3 Bedrooms",
+    "unit": "517",
+    "rent": 5665,
+    "sf": 1198,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C2",
+    "type": "3 Bedrooms",
+    "unit": "617",
+    "rent": 5690,
+    "sf": 1198,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Juniper",
+    "plan": "C4H",
+    "type": "3 Bedrooms",
+    "unit": "302",
+    "rent": 5630,
+    "sf": 1421,
+    "available": "Jul 24"
+  },
+  {
+    "building": "Mason",
+    "plan": "S5",
+    "type": "Studio",
+    "unit": "560",
+    "rent": 2215,
+    "sf": 462,
+    "available": "Sep 10"
+  },
+  {
+    "building": "Mason",
+    "plan": "S5",
+    "type": "Studio",
+    "unit": "460",
+    "rent": 2215,
+    "sf": 462,
+    "available": "Sep 22"
+  },
+  {
+    "building": "Mason",
+    "plan": "S10.1",
+    "type": "Studio",
+    "unit": "568",
+    "rent": 2255,
+    "sf": 568,
+    "available": "Sep 4"
+  },
+  {
+    "building": "Mason",
+    "plan": "S10.1",
+    "type": "Studio",
+    "unit": "674",
+    "rent": 2530,
+    "sf": 568,
+    "available": "Sep 18"
+  },
+  {
+    "building": "Mason",
+    "plan": "S10.1",
+    "type": "Studio",
+    "unit": "676",
+    "rent": 2530,
+    "sf": 568,
+    "available": "Oct 1"
+  },
+  {
+    "building": "Mason",
+    "plan": "S10.1",
+    "type": "Studio",
+    "unit": "207",
+    "rent": 2400,
+    "sf": 564,
+    "available": "Oct 10"
+  },
+  {
+    "building": "Mason",
+    "plan": "S10.1",
+    "type": "Studio",
+    "unit": "176",
+    "rent": 2305,
+    "sf": 568,
+    "available": "Oct 31"
+  },
+  {
+    "building": "Mason",
+    "plan": "S10.1",
+    "type": "Studio",
+    "unit": "208",
+    "rent": 2330,
+    "sf": 568,
+    "available": "Nov 25"
+  },
+  {
+    "building": "Mason",
+    "plan": "S10.1",
+    "type": "Studio",
+    "unit": "204",
+    "rent": 2330,
+    "sf": 568,
+    "available": "Dec 8"
+  },
+  {
+    "building": "Mason",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "644",
+    "rent": 2300,
+    "sf": 462,
+    "available": "Aug 11"
+  },
+  {
+    "building": "Mason",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "324",
+    "rent": 2425,
+    "sf": 462,
+    "available": "Sep 11"
+  },
+  {
+    "building": "Mason",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "244",
+    "rent": 2400,
+    "sf": 462,
+    "available": "Sep 25"
+  },
+  {
+    "building": "Mason",
+    "plan": "S4",
+    "type": "Studio",
+    "unit": "544",
+    "rent": 2475,
+    "sf": 462,
+    "available": "Oct 20"
+  },
+  {
+    "building": "Mason",
+    "plan": "S7",
+    "type": "Studio",
+    "unit": "148",
+    "rent": 2350,
+    "sf": 479,
+    "available": "Aug 19"
+  },
+  {
+    "building": "Mason",
+    "plan": "S3",
+    "type": "Studio",
+    "unit": "144",
+    "rent": 2350,
+    "sf": 462,
+    "available": "Oct 16"
+  },
+  {
+    "building": "Mason",
+    "plan": "A4U.1",
+    "type": "1 Bedroom",
+    "unit": "613",
+    "rent": 2670,
+    "sf": 563,
+    "available": "Oct 24"
+  },
+  {
+    "building": "Mason",
+    "plan": "A4U.1",
+    "type": "1 Bedroom",
+    "unit": "652",
+    "rent": 2615,
+    "sf": 565,
+    "available": "Nov 12"
+  },
+  {
+    "building": "Mason",
+    "plan": "A4U.1",
+    "type": "1 Bedroom",
+    "unit": "552",
+    "rent": 2540,
+    "sf": 565,
+    "available": "Dec 9"
+  },
+  {
+    "building": "Mason",
+    "plan": "A12.1",
+    "type": "1 Bedroom",
+    "unit": "209",
+    "rent": 2680,
+    "sf": 685,
+    "available": "Nov 12"
+  },
+  {
+    "building": "Mason",
+    "plan": "A12.1",
+    "type": "1 Bedroom",
+    "unit": "526",
+    "rent": 2765,
+    "sf": 688,
+    "available": "Nov 12"
+  },
+  {
+    "building": "Mason",
+    "plan": "A12.1",
+    "type": "1 Bedroom",
+    "unit": "212",
+    "rent": 2690,
+    "sf": 688,
+    "available": "Nov 25"
+  },
+  {
+    "building": "Mason",
+    "plan": "A7U",
+    "type": "1 Bedroom",
+    "unit": "564",
+    "rent": 2870,
+    "sf": 689,
+    "available": "Jan 4"
+  },
+  {
+    "building": "Mason",
+    "plan": "B2U.1",
+    "type": "2 Bedrooms",
+    "unit": "570",
+    "rent": 2935,
+    "sf": 784,
+    "available": "Dec 12"
+  },
+  {
+    "building": "Mason",
+    "plan": "B4U.A",
+    "type": "2 Bedrooms",
+    "unit": "638",
+    "rent": 3025,
+    "sf": 801,
+    "available": "Dec 9"
+  },
+  {
+    "building": "Mason",
+    "plan": "B24",
+    "type": "2 Bedrooms",
+    "unit": "416",
+    "rent": 3399,
+    "sf": 1112,
+    "available": "Oct 7"
+  },
+  {
+    "building": "Mason",
+    "plan": "B19",
+    "type": "2 Bedrooms",
+    "unit": "580",
+    "rent": 3425,
+    "sf": 1080,
+    "available": "Sep 11"
+  },
+  {
+    "building": "Mason",
+    "plan": "B19",
+    "type": "2 Bedrooms",
+    "unit": "380",
+    "rent": 3525,
+    "sf": 1080,
+    "available": "Nov 7"
+  },
+  {
+    "building": "Mason",
+    "plan": "B21",
+    "type": "2 Bedrooms",
+    "unit": "180",
+    "rent": 3435,
+    "sf": 1083,
+    "available": "Nov 19"
+  },
+  {
+    "building": "Mason",
+    "plan": "B5",
+    "type": "2 Bedrooms",
+    "unit": "514",
+    "rent": 3450,
+    "sf": 914,
+    "available": "Oct 9"
+  },
+  {
+    "building": "Mason",
+    "plan": "B8",
+    "type": "2 Bedrooms",
+    "unit": "105",
+    "rent": 3655,
+    "sf": 989,
+    "available": "Oct 24"
+  },
+  {
+    "building": "Mason",
+    "plan": "B25.Den",
+    "type": "2 Bedrooms",
+    "unit": "521",
+    "rent": 3900,
+    "sf": 1165,
+    "available": "Oct 2"
+  }
+]
