@@ -1,0 +1,10 @@
+stop_id,name,lat,lng,route,source,stop_url
+place-chill,Chestnut Hill Avenue,42.338169,-71.15316,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-chill
+place-chswk,Chiswick Road,42.340805,-71.150711,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-chswk
+place-sthld,Sutherland Road,42.341614,-71.146202,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-sthld
+place-wascm,Washington Street,42.343864,-71.142853,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-wascm
+place-wrnst,Warren Street,42.348343,-71.140457,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-wrnst
+place-alsgr,Allston Street,42.348701,-71.137955,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-alsgr
+place-grigg,Griggs Street,42.348545,-71.134949,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-grigg
+place-harvd,B-branch stop place-harvd,42.350243,-71.131355,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-harvd
+place-brico,Packard's Corner,42.351967,-71.125031,Green-B,https://cdn.mbta.com/MBTA_GTFS.zip,https://www.mbta.com/stops/place-brico

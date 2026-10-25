@@ -1,0 +1,107 @@
+{
+  "source_date": "2026-10-25",
+  "gtfs_url": "https://cdn.mbta.com/MBTA_GTFS.zip",
+  "gtfs_zip_sha256": "97aecc9ed398054494a9fc193b931235be19d1af32eb0299abf0615fd3249637",
+  "feed_info": [
+    {
+      "feed_publisher_name": "MBTA",
+      "feed_publisher_url": "http://www.mbta.com",
+      "feed_lang": "EN",
+      "feed_start_date": "20261014",
+      "feed_end_date": "20261212",
+      "feed_version": "Fall 2026, 2026-10-21T20:52:18+00:00, version D",
+      "feed_contact_email": "developer@mbta.com",
+      "feed_id": "mbta-ma-us"
+    }
+  ],
+  "station_method": "Green-B trips -> stop_times -> stops parent stations; nearby sample within one mile of Warren Street; circle on map is half a mile, straight-line distance, not walking access. One station display label uses the official stop ID to avoid an institution name.",
+  "geocoder": "U.S. Census Geocoder Public_AR_Current; address-range locations, not surveyed building entrances. Unmatched addresses remain blank.",
+  "buildings": "Seven properties from the existing repository. Hew and Harper have no verified building-wide average rent; blank fields remain blank. Everett averages are derived from the existing advertised-unit dataset, rounded to cents.",
+  "building_geocode_matches": {
+    "Hew at 1515": [
+      {
+        "tigerLine": {
+          "side": "R",
+          "tigerLineId": "85695564"
+        },
+        "coordinates": {
+          "x": -71.141183377415,
+          "y": 42.347130416975
+        },
+        "addressComponents": {
+          "zip": "02135",
+          "streetName": "COMMONWEALTH",
+          "preType": "",
+          "city": "BRIGHTON",
+          "preDirection": "",
+          "suffixDirection": "",
+          "fromAddress": "1501",
+          "state": "MA",
+          "suffixType": "AVE",
+          "toAddress": "1581",
+          "suffixQualifier": "",
+          "preQualifier": ""
+        },
+        "matchedAddress": "1525 COMMONWEALTH AVE, BRIGHTON, MA, 02135"
+      }
+    ],
+    "Harper": [
+      {
+        "tigerLine": {
+          "side": "L",
+          "tigerLineId": "85695378"
+        },
+        "coordinates": {
+          "x": -71.135452721857,
+          "y": 42.355888669998
+        },
+        "addressComponents": {
+          "zip": "02134",
+          "streetName": "RUGG",
+          "preType": "",
+          "city": "ALLSTON",
+          "preDirection": "",
+          "suffixDirection": "",
+          "fromAddress": "12",
+          "state": "MA",
+          "suffixType": "RD",
+          "toAddress": "98",
+          "suffixQualifier": "",
+          "preQualifier": ""
+        },
+        "matchedAddress": "80 RUGG RD, ALLSTON, MA, 02134"
+      }
+    ],
+    "Mason": [],
+    "Maxwell": [],
+    "Jade": [],
+    "Anthem Everett": [
+      {
+        "tigerLine": {
+          "side": "L",
+          "tigerLineId": "86873743"
+        },
+        "coordinates": {
+          "x": -71.053544036775,
+          "y": 42.402807240141
+        },
+        "addressComponents": {
+          "zip": "02149",
+          "streetName": "2ND",
+          "preType": "",
+          "city": "EVERETT",
+          "preDirection": "",
+          "suffixDirection": "",
+          "fromAddress": "400",
+          "state": "MA",
+          "suffixType": "ST",
+          "toAddress": "498",
+          "suffixQualifier": "",
+          "preQualifier": ""
+        },
+        "matchedAddress": "484 2ND ST, EVERETT, MA, 02149"
+      }
+    ],
+    "Juniper": []
+  }
+}
