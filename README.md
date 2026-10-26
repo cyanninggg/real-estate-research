@@ -46,3 +46,7 @@ node tests/research-integrity.test.cjs
 ```
 
 The integrity manifest intentionally protects the original research files. A future, separately scoped data correction must deliberately update the source record and tests rather than silently replacing assumptions.
+
+## Reconciled model — 26 October 2026
+
+Hew operating/development views and the Brighton study display results from the privately supplied reconciled model. Only webpage presentation results and assumptions are published. The latest Excel workbook and cell-value export are not published or offered for download. Historical lease comparisons and Everett data remain unchanged. Superseded abatement estimates are removed; sensitivity uses the supplied market-rate scenarios.

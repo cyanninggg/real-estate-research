@@ -211,6 +211,7 @@ section{padding:40px 0;border-bottom:1px solid #e7eae5}h2{font-size:1.65rem;font
 <footer><div class="wrap prose"><p><a href="#/lab">Analyst Learning Lab →</a></p><p>Independent research by Cyan Li · October 2026. Based on public data and stated assumptions. Estimates are not the owners’ reported results.</p><p><a href="mailto:cyanningg@outlook.com">cyanningg@outlook.com</a> · <a href="https://www.linkedin.com/in/cyan-li-3b8483256/" target="_blank" rel="noopener">LinkedIn</a></p></div></footer>
 <script src="study.js"></script>
 <script src="research-components.js"></script>
+<script src="reconciled-model.js"></script>
 <script src="portfolio.js"></script>
 <script src="lab-content.js"></script>
 <script src="lab.js"></script>
@@ -491,6 +492,7 @@ function route(){
   Array.prototype.forEach.call(document.querySelectorAll("#nav a"),function(a){a.classList.toggle("on",a.getAttribute("data-k")===(key==="hew"||key==="everett"||key==="study"?"research":key)); if(a.getAttribute("data-k")===(key==="hew"||key==="everett"||key==="study"?"research":key)) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current");});
   window.CyanPortfolio.mount();
   wire();
+  window.CyanReconciled.mount();
   if(key==="study") window.CyanStudy.mount();
   if(key==="lab") window.CyanLab.mount(h);
   var page=key+"|"+(key==="lab"?h:(parts[2]||parts[0]||""));
