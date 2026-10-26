@@ -192,24 +192,24 @@ section{padding:40px 0;border-bottom:1px solid #e7eae5}h2{font-size:1.65rem;font
 @media(max-width:600px){.tabs{display:flex;flex-wrap:wrap;gap:0 22px;margin-top:25px}.tabs a,.tabs a:last-child{grid-column:auto;min-height:48px;font-size:14px;padding:11px 0;justify-self:auto}.bhead h1{font-size:3rem}}
 </style>
 <link rel="stylesheet" href="study.css">
+<link rel="stylesheet" href="portfolio.css">
 </head>
 <body><a class="skip" href="#app">Skip to content</a>
 <header class="topbar">
   <div class="wrap">
     <a class="brand" href="#/">Cyan Li <span class="brand-sub">Real estate research</span></a>
     <nav class="nav" id="nav" aria-label="Main">
-      <a href="#/" data-k="home">Overview</a>
-      <a href="#/b/hew/overview" data-k="hew">Hew &amp; Harper</a>
-      <a href="#/b/everett/overview" data-k="everett">Greystar · Everett</a>
-      <a href="#/study" data-k="study">Feasibility Study</a>
-      <a href="#/method" data-k="method">Method</a>
-      <a href="resume.pdf" target="_blank" rel="noopener">Resume</a>
+      <a href="#/" data-k="home">Home</a>
+      <a href="#/research" data-k="research">Research</a>
+      <a href="#/method" data-k="method">Methodology</a>
+      <a href="#/about" data-k="about">About / Resume</a>
     </nav>
   </div>
 </header>
 <main id="app"></main>
 <footer><div class="wrap prose"><p>Independent research by Cyan Li · October 2026. Based on public data and stated assumptions. Estimates are not the owners’ reported results.</p><p><a href="mailto:cyanningg@outlook.com">cyanningg@outlook.com</a> · <a href="https://www.linkedin.com/in/cyan-li-3b8483256/" target="_blank" rel="noopener">LinkedIn</a></p></div></footer>
 <script src="study.js"></script>
+<script src="portfolio.js"></script>
 <script>
 (function(){
 "use strict";
@@ -475,16 +475,20 @@ function route(){
   if(window.CyanStudy) window.CyanStudy.destroy();
   var h=location.hash.replace(/^#\/?/,""), parts=h.split("/"), app=$("app"), key="home";
   if(parts[0]==="b"&&parts[1]==="harper"){parts[1]="hew";parts[2]="renter";}
-  if(parts[0]==="b" && BLD[parts[1]]){ key=parts[1]; var tab=TABS.some(function(t){return t[0]===parts[2];})?parts[2]:"overview"; app.innerHTML=buildingHTML(parts[1],tab); document.title=BLD[parts[1]].name+" · Cyan Li Research"; }
-  else if(parts[0]==="study"){key="study";app.innerHTML=window.CyanStudy.html;document.title="Feasibility Study · Cyan Li Research";}
-  else if(parts[0]==="method"){ key="method"; app.innerHTML=methodHTML(); document.title="Method · Cyan Li Research"; }
-  else { app.innerHTML=homeHTML(); document.title="Cyan Li | Real Estate Research"; }
-  Array.prototype.forEach.call(document.querySelectorAll("#nav a"),function(a){a.classList.toggle("on",a.getAttribute("data-k")===key); if(a.getAttribute("data-k")===key) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current");});
+  if(parts[0]==="b" && BLD[parts[1]]){ key=parts[1]; var tab=TABS.some(function(t){return t[0]===parts[2];})?parts[2]:"overview"; app.innerHTML=window.CyanPortfolio.casePage(parts[1],tab,{body:PAGES[parts[1]][tab](),companion:parts[1]==="hew"&&tab!=="overview"?(LOCAL_COMPANION[tab]||""):"",snapshot:parts[1]==="hew"&&tab==="renter"?HARPER_OCT19:"",summary:resultSummary(parts[1],tab),sources:methodHTML()}); document.title=BLD[parts[1]].name+" · Cyan Li Research"; }
+  else if(parts[0]==="study"){key="study";app.innerHTML=window.CyanPortfolio.study(window.CyanStudy.html);document.title="Feasibility Study · Cyan Li Research";}
+  else if(parts[0]==="method"){ key="method"; app.innerHTML=window.CyanPortfolio.method(methodHTML()); document.title="Methodology · Cyan Li Research"; }
+  else if(parts[0]==="research"){key="research";app.innerHTML=window.CyanPortfolio.research();document.title="Research · Cyan Li";}
+  else if(parts[0]==="about"){key="about";app.innerHTML=window.CyanPortfolio.about(homeHTML());document.title="About / Resume · Cyan Li";}
+  else { app.innerHTML=window.CyanPortfolio.home(); document.title="Cyan Li | Real Estate & Urban Development Research"; }
+  Array.prototype.forEach.call(document.querySelectorAll("#nav a"),function(a){a.classList.toggle("on",a.getAttribute("data-k")===(key==="hew"||key==="everett"||key==="study"?"research":key)); if(a.getAttribute("data-k")===(key==="hew"||key==="everett"||key==="study"?"research":key)) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current");});
+  window.CyanPortfolio.mount();
   wire();
   if(key==="study") window.CyanStudy.mount();
   var page=key+"|"+(parts[2]||parts[0]||"");
   if(page!==window.__lastPage) window.scrollTo(0,0);
   window.__lastPage=page;
+  if((key==="hew"||key==="everett")&&tab!=="overview") document.getElementById("case-analysis").scrollIntoView({block:"start"});
 }
 window.addEventListener("hashchange",route);
 var rt; window.addEventListener("resize",function(){clearTimeout(rt); rt=setTimeout(drawChart,150);});
