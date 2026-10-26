@@ -1,0 +1,28 @@
+{
+  "assets": {
+    "official-source-check.json": "2fc8e6b227aa33d912cf9cea97528bdfa6d1b66230515a5671104638366aa3e3",
+    "resume.pdf": "17901196c360b860b5ddc84afe9fce31da89e3934623e479dec37085d8e2834d",
+    "census-reporter-profile.pdf": "c8b1eddd21e0007f4a71c3ac1b315a52732cfbb0f06b529114d281849f759b4f",
+    "everett-listings.json": "f062b97370912c646a441537e36984c38bcdb358f3457493523152b34e521434",
+    "docs/preserved-assets.json": "e2d2c05362dcb2e74ad1288512647efd7b9cd7b9d306a7c95e28db9ef78c5fc9",
+    "docs/data-review-inventory.csv": "dbf8f7e32ca0cb8a657a5d873e3ff64ab7f62ad3842fb6ae664c43fc9abeabc0",
+    "sources/census-reporter-profile.pdf": "c8b1eddd21e0007f4a71c3ac1b315a52732cfbb0f06b529114d281849f759b4f",
+    "data/Allston_Brighton_Pro_Forma_Filled.xlsx": "a3d81fda20196805544ad5b3657cf82b943a08910ad68c5dd5420677d396289d",
+    "data/study-map-sources.json": "1391edef6a7701347d2bab24bb8312d2c1b763bc5ebfbee1c9ee3ce9cc240d1f",
+    "data/mbta_stations.csv": "d72b8dd874260757fda71bdc741043fcd2dc59780a46380042593cfd9bcf16d5",
+    "data/buildings.csv": "5c9b8367fc349c64445fde02c065a56aae6e7d00e53fe2a0b27e6cf301c2d936"
+  },
+  "financial_regions": [
+    {
+      "start": "var COMPS=",
+      "end": "/* ---------- page templates ---------- */",
+      "sha256": "bd53dfa25e2b52153aa29c8421138f4029bcfe0e216557f6fa6f95a828482bbe"
+    },
+    {
+      "start": "PAGES.hew.overview=",
+      "end": "/* ---------- router ---------- */",
+      "sha256": "b9459219ce94c4d5130957a9ae001ec85d5aea59c180a977bd391233bc0bcef5"
+    }
+  ],
+  "study_js_sha256": "3a0abcc198b146391542ae29e5f0cbf96d678400c93ad9b1c27e2c733aacafdc"
+}
