@@ -1,0 +1,16 @@
+{
+  "portable_reopen": true,
+  "all_layer_crs": "EPSG:26986",
+  "valid_geometry": true,
+  "layers": {
+    "Boston neighborhood boundaries": 2,
+    "Census road context": 501,
+    "Major water features": 1,
+    "MassGIS rapid transit lines": 2,
+    "MassGIS rapid transit stations": 7,
+    "Property locations and spatial results": 3
+  },
+  "layouts": [
+    "Hew rental comparable geographic analysis"
+  ]
+}

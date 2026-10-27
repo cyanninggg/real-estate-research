@@ -1,0 +1,120 @@
+{
+  "prepared_utc": "2026-10-27T21:59:27.116090+00:00",
+  "status": "Source preparation completed; genuine QGIS 3.44.15 project, spatial analysis and Print Layout exports generated and validated on 27 October 2026",
+  "sources": [
+    {
+      "file": "raw/boston_neighborhoods_metadata.json",
+      "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/Boston_Neighborhood_Boundaries/FeatureServer/5?f=pjson",
+      "retrieved_utc": "2026-10-27T21:59:23.691297+00:00",
+      "sha256": "20ae414e41616120b8d06e98785ff04b4b4e89671c1eabe4077bf04ae24c642d"
+    },
+    {
+      "file": "raw/boston_neighborhoods_count.json",
+      "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/Boston_Neighborhood_Boundaries/FeatureServer/5/query?where=1%3D1&returnCountOnly=true&f=json",
+      "retrieved_utc": "2026-10-27T21:59:23.806130+00:00",
+      "sha256": "3cf92e3a7cbce67954d43f0c8bbb4fb00b27074dada63d419a01d4aae8e6db81"
+    },
+    {
+      "file": "data/boston_neighborhoods.geojson",
+      "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/Boston_Neighborhood_Boundaries/FeatureServer/5/query?where=1%3D1&outFields=%2A&returnGeometry=true&outSR=4326&f=geojson",
+      "retrieved_utc": "2026-10-27T21:59:24.399175+00:00",
+      "sha256": "1cf752bf06e22e89dad4e3518cc2dec546b9e5a6f229819ff0e279978acec87c",
+      "source_crs": {
+        "falseM": 0,
+        "xyTolerance": 0.0006561666666666666,
+        "mUnits": 1,
+        "zUnits": 1,
+        "latestWkid": 2249,
+        "zTolerance": 0.001,
+        "wkid": 102686,
+        "xyUnits": 3048.0060960121928,
+        "mTolerance": 0.001,
+        "falseX": -119851500,
+        "falseY": -94498200,
+        "falseZ": 0
+      },
+      "output_crs": "OGC:CRS84 / EPSG:4326 (longitude, latitude)",
+      "selection": "All features, no geographic clipping"
+    },
+    {
+      "file": "raw/massgis_rapid_transit_stations_metadata.json",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/MBTA_Rapid_Transit/MapServer/3?f=pjson",
+      "retrieved_utc": "2026-10-27T21:59:24.579736+00:00",
+      "sha256": "e09d1fab1e992106b499e755ea1cf79c1a442a2fc1bacd359a0f4bca3ed3002c"
+    },
+    {
+      "file": "raw/massgis_rapid_transit_stations_count.json",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/MBTA_Rapid_Transit/MapServer/3/query?where=1%3D1&returnCountOnly=true&f=json",
+      "retrieved_utc": "2026-10-27T21:59:24.747517+00:00",
+      "sha256": "e200ab079eeb703e6de878b04d373b14ad388d70b992dad23893d7ceab4f833a"
+    },
+    {
+      "file": "data/massgis_rapid_transit_stations.geojson",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/MBTA_Rapid_Transit/MapServer/3/query?where=1%3D1&outFields=%2A&returnGeometry=true&outSR=4326&f=geojson",
+      "retrieved_utc": "2026-10-27T21:59:25.352934+00:00",
+      "sha256": "9c0566747296898871731626aca888fd6b69b4f15db0f399e69206cf5ed23d3d",
+      "source_crs": {
+        "falseM": -100000,
+        "xyTolerance": 0.001,
+        "mUnits": 10000,
+        "zUnits": 1,
+        "latestWkid": 26986,
+        "zTolerance": 2,
+        "wkid": 26986,
+        "xyUnits": 122610652.81195112,
+        "mTolerance": 0.001,
+        "falseX": -36530900,
+        "falseY": -28803200,
+        "falseZ": 0
+      },
+      "output_crs": "OGC:CRS84 / EPSG:4326 (longitude, latitude)",
+      "selection": "All features, no geographic clipping"
+    },
+    {
+      "file": "raw/massgis_rapid_transit_lines_metadata.json",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/MBTA_Rapid_Transit/MapServer/4?f=pjson",
+      "retrieved_utc": "2026-10-27T21:59:26.005543+00:00",
+      "sha256": "1dcb5ea86290004178f9e0407fd8a1a8cfccedf109565c029c3d54cd8486922e"
+    },
+    {
+      "file": "raw/massgis_rapid_transit_lines_count.json",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/MBTA_Rapid_Transit/MapServer/4/query?where=1%3D1&returnCountOnly=true&f=json",
+      "retrieved_utc": "2026-10-27T21:59:26.180198+00:00",
+      "sha256": "92e0044bb432488fb0429dcb45c0fc628bc11350317d76556a9ebf09f4915725"
+    },
+    {
+      "file": "data/massgis_rapid_transit_lines.geojson",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/MBTA_Rapid_Transit/MapServer/4/query?where=1%3D1&outFields=%2A&returnGeometry=true&outSR=4326&f=geojson",
+      "retrieved_utc": "2026-10-27T21:59:26.585339+00:00",
+      "sha256": "11f808348083e4f9c90a4b996346c38d8a96860e50f098ad9ad585f0448fea9e",
+      "source_crs": {
+        "falseM": -100000,
+        "xyTolerance": 0.001,
+        "mUnits": 10000,
+        "zUnits": 1,
+        "latestWkid": 26986,
+        "zTolerance": 2,
+        "wkid": 26986,
+        "xyUnits": 122610652.81195112,
+        "mTolerance": 0.001,
+        "falseX": -36530900,
+        "falseY": -28803200,
+        "falseZ": 0
+      },
+      "output_crs": "OGC:CRS84 / EPSG:4326 (longitude, latitude)",
+      "selection": "All features, no geographic clipping"
+    },
+    {
+      "file": "raw/hew_geocode.json",
+      "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1525+Commonwealth+Avenue%2C+Brighton%2C+MA+02135&benchmark=Public_AR_Current&format=json",
+      "retrieved_utc": "2026-10-27T21:59:26.844016+00:00",
+      "sha256": "95aee44dcd6d88e10f74ed81213d62434b194389e44d4a89e7673167644b7d0e"
+    },
+    {
+      "file": "raw/harper_geocode.json",
+      "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=80+Rugg+Road%2C+Allston%2C+MA+02134&benchmark=Public_AR_Current&format=json",
+      "retrieved_utc": "2026-10-27T21:59:27.085683+00:00",
+      "sha256": "5aec1de6022d5ac41662ea338bb6d63a46b76bfe5ded54f0a6b66dd22c49ee2c"
+    }
+  ]
+}

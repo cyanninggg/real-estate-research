@@ -1,0 +1,4 @@
+property_id,name,neighborhood,nearest_station,station_id,distance_m,station_line
+hew,Hew at 1515,Brighton,Warren Street,138,184.0104692411282,GREEN
+harper,Harper,Allston,Harvard Avenue,135,709.2459835791233,GREEN
+alder,Alder at Allston Yards,Brighton,Warren Street,138,806.0746926790318,GREEN
