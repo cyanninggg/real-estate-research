@@ -1,0 +1,20 @@
+/* Scoped additions; existing portfolio typography, navigation and palette are retained. */
+.hew-report .hew-process{list-style:none;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:18px;padding:0;margin:32px 0}
+.hew-process li{border-top:2px solid var(--green);padding-top:12px;font-size:13px;line-height:1.5;position:relative}
+.hew-process li span{display:block;color:var(--muted);font-size:10px;margin-bottom:8px}
+.hew-process li:not(:last-child):after{content:'→';position:absolute;right:-14px;top:11px;color:var(--green)}
+.hew-report .model-disclosure{border-left:3px solid var(--green);padding:8px 0 8px 20px;font-size:14px;max-width:900px}
+.hew-report .table-scroll{width:100%;max-width:100%;overflow-x:auto}
+.hew-report table{font-variant-numeric:tabular-nums;font-size:12px}
+.hew-report th,.hew-report td{vertical-align:top;line-height:1.65}
+.hew-report table caption{text-align:left;color:var(--muted);padding:8px 0}
+.hew-report details{border-top:1px solid var(--line);padding-top:6px}
+.hew-report summary{font-size:14px;font-weight:500}
+.hew-report .hew-findings{padding-left:24px;max-width:960px}
+.hew-report .hew-findings li{padding:0 0 20px 10px}
+.hew-report .hew-findings h3{margin-bottom:6px;font-size:20px;font-weight:500}
+.hew-report .hew-findings .report-source{margin:0 0 8px}
+.hew-report .sensitivity-label{display:flex;align-items:center;flex-wrap:wrap;gap:12px;font-size:13px;margin:24px 0}
+.hew-report .sensitivity-label select{font:inherit;background:white;color:var(--ink);border:1px solid var(--line);padding:10px;max-width:100%}
+.hew-report [data-reconciled-sensitivity][hidden]{display:none}
+@media(max-width:800px){.hew-report .hew-process{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.hew-process li:nth-child(even):after{display:none}.hew-report table{min-width:650px}.hew-report .portfolio-case-head h1{font-size:2.3rem}.hew-report .hew-findings{padding-left:20px}.hew-report .hero-route a{display:inline-block;margin:4px 10px 4px 0}}

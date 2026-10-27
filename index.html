@@ -193,6 +193,7 @@ section{padding:40px 0;border-bottom:1px solid #e7eae5}h2{font-size:1.65rem;font
 </style>
 <link rel="stylesheet" href="study.css">
 <link rel="stylesheet" href="portfolio.css">
+<link rel="stylesheet" href="hew-report.css?v=hew-final-20261026-4">
 <link rel="stylesheet" href="lab.css">
 </head>
 <body><a class="skip" href="#app">Skip to content</a>
@@ -209,10 +210,11 @@ section{padding:40px 0;border-bottom:1px solid #e7eae5}h2{font-size:1.65rem;font
 </header>
 <main id="app"></main>
 <footer><div class="wrap prose"><p><a href="#/lab">Analyst Learning Lab →</a></p><p>Independent research by Cyan Li · October 2026. Based on public data and stated assumptions. Estimates are not the owners’ reported results.</p><p><a href="mailto:cyanningg@outlook.com">cyanningg@outlook.com</a> · <a href="https://www.linkedin.com/in/cyan-li-3b8483256/" target="_blank" rel="noopener">LinkedIn</a></p></div></footer>
-<script src="study.js"></script>
+<script src="study.js?v=hew-final-20261026-4"></script>
 <script src="research-components.js"></script>
-<script src="reconciled-model.js"></script>
-<script src="portfolio.js"></script>
+<script src="reconciled-model.js?v=hew-final-20261026-4"></script>
+<script src="hew-report.js?v=hew-final-20261026-4"></script>
+<script src="portfolio.js?v=hew-final-20261026-4"></script>
 <script src="lab-content.js"></script>
 <script src="lab.js"></script>
 <script>
@@ -477,13 +479,15 @@ function wire(){
 
 /* ---------- router ---------- */
 function route(){
+  window.CyanHew.destroy();
+  window.CyanHew.historyHTML=compTableHTML()+HARPER_OCT19;
   if(window.CyanStudy) window.CyanStudy.destroy();
   if(window.CyanPortfolio) window.CyanPortfolio.destroy();
   if(window.CyanLab) window.CyanLab.destroy();
   var h=location.hash.replace(/^#\/?/,""), parts=h.split("/"), app=$("app"), key="home";
   if(parts[0]==="b"&&parts[1]==="harper"){parts[1]="hew";parts[2]="renter";}
-  if(parts[0]==="b" && BLD[parts[1]]){ key=parts[1]; var tab=TABS.some(function(t){return t[0]===parts[2];})?parts[2]:"overview"; app.innerHTML=window.CyanPortfolio.casePage(parts[1],tab,{body:PAGES[parts[1]][tab](),companion:parts[1]==="hew"&&tab!=="overview"?(LOCAL_COMPANION[tab]||""):"",snapshot:parts[1]==="hew"&&tab==="renter"?HARPER_OCT19:"",summary:resultSummary(parts[1],tab),sources:methodHTML()}); document.title=BLD[parts[1]].name+" · Cyan Li Research"; }
-  else if(parts[0]==="study"){key="study";app.innerHTML=window.CyanPortfolio.study(window.CyanStudy.html);document.title="Feasibility Study · Cyan Li Research";}
+  if(parts[0]==="b" && BLD[parts[1]]){ key=parts[1]; var tab=TABS.some(function(t){return t[0]===parts[2];})?parts[2]:"overview"; app.innerHTML=window.CyanPortfolio.casePage(parts[1],tab,{body:PAGES[parts[1]][tab](),companion:parts[1]==="hew"&&tab!=="overview"?(LOCAL_COMPANION[tab]||""):"",snapshot:parts[1]==="hew"&&tab==="renter"?HARPER_OCT19:"",summary:resultSummary(parts[1],tab),sources:methodHTML()}); document.title=(parts[1]==="hew"?"Hew at 1515 Research":BLD[parts[1]].name)+" · Cyan Li Research"; }
+  else if(parts[0]==="study"){key="study";app.innerHTML=window.CyanPortfolio.study(window.CyanStudy.html);document.title="Hew at 1515 Research · Cyan Li";}
   else if(parts[0]==="lab"){key="lab";app.innerHTML=window.CyanLab.html(h);document.title="Analyst Learning Lab · Cyan Li";}
   else if(parts[0]==="method"){ key="method"; app.innerHTML=window.CyanPortfolio.method(methodHTML()); document.title="Methodology · Cyan Li Research"; }
   else if(parts[0]==="research"){key="research";app.innerHTML=window.CyanPortfolio.research();document.title="Research · Cyan Li";}
@@ -493,7 +497,8 @@ function route(){
   window.CyanPortfolio.mount();
   wire();
   window.CyanReconciled.mount();
-  if(key==="study") window.CyanStudy.mount();
+  if(document.querySelector(".hew-report")) window.CyanHew.mount();
+  else if(key==="study") window.CyanStudy.mount();
   if(key==="lab") window.CyanLab.mount(h);
   var page=key+"|"+(key==="lab"?h:(parts[2]||parts[0]||""));
   if(page!==window.__lastPage) window.scrollTo(0,0);

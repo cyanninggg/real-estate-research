@@ -50,3 +50,11 @@ The integrity manifest intentionally protects the original research files. A fut
 ## Reconciled model — 26 October 2026
 
 Hew operating/development views and the Brighton study display results from the privately supplied reconciled model. Only webpage presentation results and assumptions are published. The latest Excel workbook and cell-value export are not published or offered for download. Historical lease comparisons and Everett data remain unchanged. Superseded abatement estimates are removed; sensitivity uses the supplied market-rate scenarios.
+
+## Final Hew research revision
+
+The Hew report uses six sections: question, analytical framework, evidence, financial analysis, findings, and sources. The existing study and Hew URLs resolve to this shared report; historical October samples and regional mapping remain available within the evidence section. `hew-report.js` renders the report, `hew-report.css` adds scoped presentation rules, and `reconciled-model.js` contains curated public figures and explanations.
+
+The latest source workbook stays private and is not offered for download. Boston FY2026 parcel and tax fields are reported separately from the hypothetical development model. The base scenario excludes unconfirmed owner internet income and procurement cost. Broker commissions and replacement reserve remain below NOI. The fourth sensitivity view varies broker participation.
+
+Validation: `node tests/reconciled-model.test.cjs`, `node tests/research-integrity.test.cjs`, and `node tests/lab-state.test.cjs`. The first test independently recalculates public scenarios and optionally compares them to a private local source export if available; it runs without that export. No build step is required.
