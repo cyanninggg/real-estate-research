@@ -1,0 +1,123 @@
+{
+  "qgis_version": "3.44.15-Solothurn",
+  "created_utc": "2026-10-27T22:16:52.408678+00:00",
+  "project_crs": "EPSG:26986",
+  "distance_units": "meters; projected Cartesian straight-line distances",
+  "steps": [
+    {
+      "operation": "reproject",
+      "source": "properties",
+      "input_crs": "EPSG:4326",
+      "output_crs": "EPSG:26986",
+      "input_features": 3,
+      "output_features": 3,
+      "invalid_geometry_repairs": 0
+    },
+    {
+      "operation": "reproject and clip",
+      "source": "boston_neighborhoods",
+      "input_crs": "EPSG:4326",
+      "output_crs": "EPSG:26986",
+      "input_features": 26,
+      "output_features": 2,
+      "invalid_geometry_repairs": 1
+    },
+    {
+      "operation": "reproject",
+      "source": "massgis_rapid_transit_stations",
+      "input_crs": "EPSG:4326",
+      "output_crs": "EPSG:26986",
+      "input_features": 170,
+      "output_features": 170,
+      "invalid_geometry_repairs": 0
+    },
+    {
+      "operation": "reproject and clip",
+      "source": "massgis_rapid_transit_stations",
+      "input_crs": "EPSG:4326",
+      "output_crs": "EPSG:26986",
+      "input_features": 170,
+      "output_features": 7,
+      "invalid_geometry_repairs": 0
+    },
+    {
+      "operation": "reproject and clip",
+      "source": "massgis_rapid_transit_lines",
+      "input_crs": "EPSG:4326",
+      "output_crs": "EPSG:26986",
+      "input_features": 141,
+      "output_features": 2,
+      "invalid_geometry_repairs": 0
+    },
+    {
+      "operation": "reproject and clip",
+      "source": "Census TIGER 2020 Suffolk roads",
+      "input_crs": "EPSG:4269",
+      "output_crs": "EPSG:26986",
+      "input_features": 10055,
+      "output_features": 501,
+      "invalid_geometry_repairs": 0
+    },
+    {
+      "operation": "reproject and clip",
+      "source": "water_context",
+      "input_crs": "EPSG:4326",
+      "output_crs": "EPSG:26986",
+      "input_features": 1,
+      "output_features": 1,
+      "invalid_geometry_repairs": 0
+    },
+    {
+      "operation": "point-in-polygon spatial join",
+      "predicate": "intersects; exactly one neighborhood required"
+    },
+    {
+      "operation": "nearest station",
+      "method": "minimum QgsGeometry.distance across all 170 official station features in EPSG:26986",
+      "not": "walking/network distance, station entrance distance, or travel time"
+    }
+  ],
+  "results": [
+    {
+      "property_id": "hew",
+      "name": "Hew at 1515",
+      "neighborhood": "Brighton",
+      "nearest_station": "Warren Street",
+      "station_id": 138,
+      "distance_m": 184.0104692411282,
+      "station_line": "GREEN"
+    },
+    {
+      "property_id": "harper",
+      "name": "Harper",
+      "neighborhood": "Allston",
+      "nearest_station": "Harvard Avenue",
+      "station_id": 135,
+      "distance_m": 709.2459835791233,
+      "station_line": "GREEN"
+    },
+    {
+      "property_id": "alder",
+      "name": "Alder at Allston Yards",
+      "neighborhood": "Brighton",
+      "nearest_station": "Warren Street",
+      "station_id": 138,
+      "distance_m": 806.0746926790318,
+      "station_line": "GREEN"
+    }
+  ],
+  "map_extent_26986": {
+    "xmin": 228359.46025156687,
+    "ymin": 899088.2920034932,
+    "xmax": 231238.81389304288,
+    "ymax": 901263.1229454591,
+    "method": "600m cartographic padding around property bounding box, aspect-ratio adjusted; not a catchment or accessibility buffer"
+  },
+  "project": "hew_rental_comparables.qgz",
+  "geopackage": "hew_comparables.gpkg",
+  "layout": "Hew rental comparable geographic analysis",
+  "exports": {
+    "hew-rental-comparables.pdf": "cb696e8f3afbbe7139d5b1e8a4ba4eece0dd21bd3a1ae3839a0d9a12bf13d146",
+    "hew-rental-comparables.svg": "dcd8d32b554a3dfab8d0db7689441451fa5e932b12f4f609c39fe6624cf58f2d"
+  }
+}
