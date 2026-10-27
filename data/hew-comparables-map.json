@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "name": "Hew at 1515",
+      "address": "1525 Commonwealth Avenue, Brighton, MA 02135",
+      "role": "Subject property",
+      "coordinates": [
+        42.347130416975,
+        -71.141183377415
+      ]
+    },
+    {
+      "name": "Harper",
+      "address": "80 Rugg Road, Allston, MA 02134",
+      "role": "Rental comparable",
+      "coordinates": [
+        42.355888669998,
+        -71.135452721857
+      ]
+    },
+    {
+      "name": "Alder at Allston Yards",
+      "address": "301 Guest Street, Boston, MA 02134",
+      "role": "Rental comparable",
+      "coordinates": [
+        42.3558886,
+        -71.1401106
+      ]
+    }
+  ],
+  "verified": "2026-10-27",
+  "method": "Hew and Harper: existing U.S. Census address-range geocodes, not surveyed entrances. Alder: the property map linked directly from its official website resolves to the named Alder at Allston Yards place at 42.3558886, -71.1401106. Map points provide property context; no distances or travel times are inferred.",
+  "sources": [
+    "data/study-map-sources.json",
+    "https://geocoding.geo.census.gov/geocoder/",
+    "https://www.openstreetmap.org/copyright",
+    "https://www.livealder.com/",
+    "https://maps.app.goo.gl/YEQpbjmF7fcBPNKMA"
+  ]
+}

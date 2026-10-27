@@ -73,3 +73,9 @@ The Hew report now opens with an executive summary and keeps six detailed sectio
 The only newly downloadable workbook is the reviewed, sanitized public edition described above. The original private workbook, confidential records, reference report, local QA fixtures and development artifacts are excluded. Existing historical model files are not replaced by this presentation update.
 
 Deployment continues to use **main / root** through GitHub Pages' existing branch deployment. No deployment configuration changes or package dependencies are required.
+
+## Final Hew editorial presentation — 27 October 2026
+
+`hew-report.js` now presents a pre-read followed by Rental Market, Financial Underwriting, Development Feasibility, Sensitivity Analysis and Sources & Appendix. Main exhibits read the unchanged curated results; the public workbook is unchanged. Detailed historical comparisons, mixed-income outputs, expense schedules, all four sensitivity controls and source references remain in the appendix.
+
+`hew-editorial.css` applies the Source Sans 3 typeface, navy/teal palette and responsive layouts. `typeface.css` and the OFL-licensed files in `assets/fonts/` self-host the font. The hero references the official Hew photograph with attribution. The Leaflet map uses OpenStreetMap tiles; `data/hew-comparables-map.json` documents Census coordinates for Hew and Harper and the official Alder website's named map location. No invented coordinates, distances or travel times are included.
