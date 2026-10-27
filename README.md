@@ -58,3 +58,18 @@ The Hew report uses six sections: question, analytical framework, evidence, fina
 The latest source workbook stays private and is not offered for download. Boston FY2026 parcel and tax fields are reported separately from the hypothetical development model. The base scenario excludes unconfirmed owner internet income and procurement cost. Broker commissions and replacement reserve remain below NOI. The fourth sensitivity view varies broker participation.
 
 Validation: `node tests/reconciled-model.test.cjs`, `node tests/research-integrity.test.cjs`, and `node tests/lab-state.test.cjs`. The first test independently recalculates public scenarios and optionally compares them to a private local source export if available; it runs without that export. No build step is required.
+
+
+## Hew presentation polish
+
+The Hew report now opens with an executive summary and keeps six detailed sections. The two selected cases are numbered 01 and 02. Capability descriptions distinguish completed research, Learning Lab practice and planned spatial research. `data/Hew_Underwriting_Public_Edition_2026.xlsx` is a separately sanitized public edition: confidential transaction estimates, derived ratios and related notes were removed; financial assumptions, formulas, source references and results were preserved. The original workbook remains private. The public edition is linked from the model section.
+
+## Report design — 27 October 2026
+
+`report-design.css` provides a navy / blue, responsive report presentation. `research-exhibits.js` reads the existing curated public HTML tables to render lease comparisons, a two-scenario operating bridge and a labeled sensitivity matrix; it does not change financial inputs or recalculate the model. Detailed tables, classifications and source notes remain available in expandable sections. Hew retains its six sections and all prior routes; Everett and Learning Lab data and logic are unchanged.
+
+`hew-research-brief.html` is a standalone, one-page print-friendly summary. Its Print / Save as PDF button invokes the browser print dialog; `brief.css` hides the controls and sizes the content for Letter paper. The brief links back to the complete evidence and limitations.
+
+The only newly downloadable workbook is the reviewed, sanitized public edition described above. The original private workbook, confidential records, reference report, local QA fixtures and development artifacts are excluded. Existing historical model files are not replaced by this presentation update.
+
+Deployment continues to use **main / root** through GitHub Pages' existing branch deployment. No deployment configuration changes or package dependencies are required.
