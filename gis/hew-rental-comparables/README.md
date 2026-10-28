@@ -67,3 +67,9 @@ Set `QGIS_APP` to the installed QGIS app location. This is the application path,
 The saved project was copied with its GeoPackage to another directory and reopened in real PyQGIS. All six layers loaded in EPSG:26986, all saved geometries passed QGIS validity checking, and the editable Print Layout remained present. The project contains relative data paths and no local user-directory paths. The PDF was independently rendered with Poppler and visually inspected for labels, clipping, legend and scale.
 
 This analysis demonstrates source handling, location validation, CRS transformation, spatial joining, nearest-feature measurement and QGIS layout production. It does not establish surveyed positions, pedestrian accessibility, transit service frequency, realized rents, building-level performance or an investment conclusion. Financial results and the rest of the portfolio were not changed.
+
+### Final release clarification
+
+Alder’s official address is **301 Guest Street, Boston, MA 02134**. Its official website names the development **Allston Yards**; the validated property point intersects the Planning Department’s **Brighton** polygon. Public presentation therefore uses “Brighton · Allston Yards development.” This preserves the computed official-boundary result and distinguishes it from the development’s marketed name; it is not an address or point correction.
+
+**Boston Landing is commuter rail**, on the Framingham/Worcester Line ([Boston Landing’s station information](https://www.bostonlanding.co/places/commuter-rail)). It is outside the MassGIS rapid-transit layer used here. Alder’s 806 m result is the nearest *rapid-transit station point*, not the nearest station of any type. No commuter-rail distance or walking-access measure has been calculated. The map, project, coordinates and spatial results are unchanged.
